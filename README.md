@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F7E2&width=435&lines=Hi+There%2C+I'm+Mohammad+Reza!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=2CEFF7&repeat=false&width=435&lines=Hi+There%2C+I'm+Mohammad+Reza!!!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74EEB&width=435&lines=%22Building+ideas+into+code%2C+one+commit+at+a+time.''%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F74EEB&repeat=false&width=435&lines=%22Building+ideas+into+code.%22)](https://git.io/typing-svg)
 
 ###  AI Engineer | Machine Learning Developer
 
@@ -9,8 +9,8 @@
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mlalegany1@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohammadreza-lalehgani-0b6b51281/))
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)]([https://t.me/your-telegram](https://t.me/Mohaammadreza137))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/mohammadreza-lalehgani-0b6b51281/])
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)]([https://t.me/Mohaammadreza137])
 
 ---
 
