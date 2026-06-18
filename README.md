@@ -6,6 +6,14 @@
 
 ---
 
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mlalegany1@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohammadreza-lalehgani-0b6b51281/))
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)]([https://t.me/your-telegram](https://t.me/Mohaammadreza137))
+
+---
+
 ## 👨‍💻 About Me
 
 * 🎓 Bachelor's Degree in Computer Science
@@ -31,19 +39,9 @@ Python • JavaScript • SQL • C++
 
 ---
 
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)](https://t.me/your-telegram)
----
-
-"Building ideas into code, one commit at a time."
-
----
-
 ### Thanks for visiting my profile! 🚀
 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRezaL&show_icons=true)
 
