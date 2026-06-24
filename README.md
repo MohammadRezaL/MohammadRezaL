@@ -24,13 +24,13 @@
 
 ---
 
-## 🛠️ Languages
+##  Languages
 
 Python • JavaScript • SQL • C++
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * Artificial Intelligence
 * Machine Learning Engineering
