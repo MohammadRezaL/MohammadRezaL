@@ -39,7 +39,7 @@ Python • JavaScript • SQL • C++
 
 ---
 
-### Thanks for visiting my profile! 🚀
+### Thanks for visiting my profile! 
 
 ---
 
