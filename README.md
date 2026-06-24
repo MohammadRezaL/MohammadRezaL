@@ -16,11 +16,11 @@
 
 ##  About Me
 
-* 🎓 Bachelor's Degree in Computer Science
-* 🎓 Master's Degree in Artificial Intelligence
-* 💻 Passionate about AI, Machine Learning, and Intelligent Systems
-* 🤖 Passionate about Artificial Intelligence and Machine Learning
-* 📚 Always learning new technologies and improving my skills
+*  Bachelor's Degree in Computer Science
+*  Master's Degree in Artificial Intelligence
+*  Passionate about AI, Machine Learning, and Intelligent Systems
+*  Passionate about Artificial Intelligence and Machine Learning
+*  Always learning new technologies and improving my skills
 
 ---
 
