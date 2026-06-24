@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 * 🎓 Bachelor's Degree in Computer Science
 * 🎓 Master's Degree in Artificial Intelligence
