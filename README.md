@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F74EEB&repeat=false&width=435&lines=%22Building+ideas+into+code.%22)](https://git.io/typing-svg)
 
-###  AI Engineer | Machine Learning Developer
+###  AI Engineer | Machine Learning 
 
 ---
 
