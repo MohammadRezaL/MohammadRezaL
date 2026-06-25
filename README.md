@@ -9,7 +9,6 @@
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mlalegany1@yahoo.com)
-[![LinkedIn]([https://www.linkedin.com/in/mohammadreza-lalehgani-0b6b51281/])
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram)]([https://t.me/Mohaammadreza137])
 
 ---
