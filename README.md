@@ -41,9 +41,3 @@ Python • JavaScript • SQL • C++
 ---
 
 ### Thanks for visiting my profile!
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRezaL&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaL&layout=compact)
