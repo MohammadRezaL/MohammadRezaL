@@ -27,7 +27,7 @@
 
 ## Languages
 
-Python •  • SQL • C++
+Python • JavaScript • SQL • C++
 
 ---
 
