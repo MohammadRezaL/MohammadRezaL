@@ -8,7 +8,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:mlalegany1@yahoo.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=telegram&logoColor=white)](https://t.me/Mohaammadreza137)
