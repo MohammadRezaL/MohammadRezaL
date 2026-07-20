@@ -46,16 +46,16 @@ Python • JavaScript • SQL • C++
 
 ## 🖼️ My Image Rotator
 
-<a href="https://YOUR_USERNAME.github.io/refresh-image-rotator/">
+<a href="https://MohammadRezaL.github.io/refresh-image-rotator/">
   <img
-    src="https://YOUR_USERNAME.github.io/refresh-image-rotator/images/01.svg"
+    src="https://MohammadRezaL.github.io/refresh-image-rotator/images/01.svg"
     alt="Open my image rotator"
     width="700"
   />
 </a>
 
 <p>
-  <a href="https://YOUR_USERNAME.github.io/refresh-image-rotator/">
+  <a href="https://MohammadRezaL.github.io/refresh-image-rotator/">
     View the interactive image sequence →
   </a>
 </p>
