@@ -44,6 +44,15 @@ Python • JavaScript • SQL • C++
 
 ---
 
+aa
+<p align="center">
+  <img
+    src="https://YOUR-PRODUCTION-DOMAIN/api/image"
+    alt="Rotating profile image"
+    width="100%"
+  />
+</p>
+aa
 ## 🖼️ My Image Rotator
 
 <a href="https://MohammadRezaL.github.io/refresh-image-rotator/">
