@@ -44,27 +44,10 @@ Python • JavaScript • SQL • C++
 
 ---
 
-aa
 <p align="center">
   <img
     src="https://refresh-image-rotator.vercel.app/api/image"
     alt="Rotating profile image"
     width="100%"
   />
-</p>
-aa
-## 🖼️ My Image Rotator
-
-<a href="https://MohammadRezaL.github.io/refresh-image-rotator/">
-  <img
-    src="https://MohammadRezaL.github.io/refresh-image-rotator/images/01.svg"
-    alt="Open my image rotator"
-    width="700"
-  />
-</a>
-
-<p>
-  <a href="https://MohammadRezaL.github.io/refresh-image-rotator/">
-    View the interactive image sequence →
-  </a>
 </p>
