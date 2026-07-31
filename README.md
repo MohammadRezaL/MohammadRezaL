@@ -51,3 +51,13 @@ Python • JavaScript • SQL • C++
     width="100%"
   />
 </p>
+
+--------
+
+<p align="center">
+  <img
+    src="https://refresh-image-rotator.vercel.app/api/image?category=animation"
+    alt="Rotating profile image"
+    width="100%"
+  />
+</p>
