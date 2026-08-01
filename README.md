@@ -47,7 +47,7 @@ Python • JavaScript • SQL • C++
 
 <p align="center">
   <img
-    src="https://refresh-image-rotator.vercel.app/api/image?category=movie"
+    src="https://refresh-image-rotator.vercel.app/api/image?category=anime"
     alt="Rotating profile image"
     width="100%"
   />
